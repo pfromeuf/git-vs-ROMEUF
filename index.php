@@ -1,4 +1,7 @@
 <?php
 session_start();
-phpinfo();
+
+$a;
+$a=8*3;
+echo($a);
 ?>
